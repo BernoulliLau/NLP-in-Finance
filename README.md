@@ -1,2 +1,2 @@
-# bernoulliFrom0To1
+# bernoulli0_1
 Store my projects!
