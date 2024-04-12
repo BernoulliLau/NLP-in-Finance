@@ -1,2 +1,1 @@
-# bernoulli0_1
-Store my projects!
+This is the project of course FRE 7871.
